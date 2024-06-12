@@ -3,7 +3,10 @@ RENCANA KONTEN ANGGA
 - Javascript
  * ES6
  * Fremwork JS
+    1. View
 - Fundamental (struktur data dasar)
 - PHP 
+  * Laravel
 - Interview
 - Vlog
+- Python
