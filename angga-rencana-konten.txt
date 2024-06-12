@@ -4,6 +4,7 @@ RENCANA KONTEN ANGGA
  * ES6
  * Fremwork JS
     1. View
+    2. React
 - Fundamental (struktur data dasar)
 - PHP 
   * Laravel
