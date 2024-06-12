@@ -1,6 +1,8 @@
 RENCANA KONTEN ANGGA
 
 - Javascript
+ * ES6
+ * Fremwork JS
 - PHP 
 - Interview
 - Vlog
